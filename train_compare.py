@@ -15,7 +15,6 @@ from dataclasses import dataclass
 from typing import Dict, List, Tuple, Optional
 
 
-# ==================== 配置类 ====================
 @dataclass
 class ExperimentConfig:
     """实验配置类"""
